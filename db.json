@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Mouse",
+      "price": 850,
+      "category": "Electronics",
+      "stock": 25,
+      "image": "https://via.placeholder.com/150",
+      "description": "Ergonomic wireless mouse with USB receiver"
+    },
+    {
+      "id": 2,
+      "name": "Gaming Keyboard",
+      "price": 2200,
+      "category": "Electronics",
+      "stock": 15,
+      "image": "https://via.placeholder.com/150",
+      "description": "RGB mechanical keyboard for gaming"
+    },
+    {
+      "id": 3,
+      "name": "Bluetooth Headphones",
+      "price": 1800,
+      "category": "Accessories",
+      "stock": 30,
+      "image": "https://via.placeholder.com/150",
+      "description": "Noise-cancelling over-ear headphones"
+    },
+    {
+      "id": 4,
+      "name": "Smart Watch",
+      "price": 3500,
+      "category": "Wearable",
+      "stock": 10,
+      "image": "https://via.placeholder.com/150",
+      "description": "Fitness tracking smartwatch with heart rate monitor"
+    },
+    {
+      "id": 5,
+      "name": "USB-C Charger",
+      "price": 600,
+      "category": "Accessories",
+      "stock": 40,
+      "image": "https://via.placeholder.com/150",
+      "description": "Fast charging USB-C adapter"
+    }
+  ]
+}
