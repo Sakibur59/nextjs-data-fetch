@@ -1,7 +1,8 @@
 import Products from "../Components/Products";
 
 const getProducts = async() => {
-    const res = await fetch("http://localhost:5000/products",{ cache: 'force-cache' });
+    // const res = await fetch("http://localhost:5000/products",{ cache: 'force-cache' });
+    const res = await fetch("http://localhost:5000/products",{ cache: 'no-cache' });
     return res.json()
 }
 
